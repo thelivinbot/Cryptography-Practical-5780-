@@ -28,8 +28,7 @@ print("Decrypted message:", decrypted)
 #input
 Enter message: GITAM UNIVERSITY
 Enter key: 6
+
 #output
-Enter message: GITAM UNIVERSITY
-Enter key: 6
 Encrypted message: MOZGS ATOBKXYOZE
 Decrypted message: GITAM UNIVERSITY
