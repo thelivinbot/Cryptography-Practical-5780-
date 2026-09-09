@@ -54,5 +54,5 @@ Message: GITAM UNIVERSITY
 Key: KEY
 
 #output
-Message: GITAM UNIVERSITY
-Key: KEY
+Encrypted message: QMRKQ SXMTOVQSXW
+Decrypted message: GITAM UNIVERSITY
